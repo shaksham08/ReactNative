@@ -79,5 +79,3 @@ const ComponentScreen = () => {
   );
 };
 ```
-
-2. We configure different
